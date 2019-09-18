@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WalArt</string>
+    <string name="login">Login using:</string>
+</resources>
