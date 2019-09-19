@@ -6,9 +6,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/colorAccent"
-    android:backgroundTint="@color/colorPrimaryDark"
-    android:backgroundTintMode="multiply"
     android:gravity="center"
     tools:context=".MainActivity">
 
@@ -16,8 +13,7 @@
         android:id="@+id/background"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:scaleType="centerCrop"
-        tools:srcCompat="@tools:sample/backgrounds/scenic" />
+        android:scaleType="centerCrop" />
 
 <!--    <ImageView-->
 <!--        android:id="@+id/imageView2"-->

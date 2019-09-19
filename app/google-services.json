@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "105966087127",
+    "firebase_url": "https://walart-78280.firebaseio.com",
+    "project_id": "walart-78280",
+    "storage_bucket": "walart-78280.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105966087127:android:6f6cded75f2121076b3992",
+        "android_client_info": {
+          "package_name": "com.redrocket.walart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105966087127-3uavfvokrh6rt0lugnc30q1ql6gornek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redrocket.walart",
+            "certificate_hash": "c5de76d03539408c32de7db73d76b09f9554a163"
+          }
+        },
+        {
+          "client_id": "105966087127-lenobmmn0c093gm3hmgvhluhh82tntpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwXghDr7EqHt3Zd9umJeiQC3QxLBQiv1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105966087127-lenobmmn0c093gm3hmgvhluhh82tntpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
